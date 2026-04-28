@@ -58,4 +58,3 @@ class Main {
         printNamesNTimes(1, 5);
     }
 }
-
